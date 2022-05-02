@@ -1,4 +1,4 @@
-console.log("This is JS file");
+//console.log("This is JS file");
 //047aed9f871343aeb3a055340046027d
 
 sources = 'bbc-news';
